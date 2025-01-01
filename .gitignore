@@ -1,0 +1,28 @@
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+
+# Build artifacts
+/build/
+
+# Images or outputs
+*.png
+simple_logo_Cx.png
+codex_logo.png
+
+# IDE and editor settings
+.vscode/
+.idea/
+*.iml
